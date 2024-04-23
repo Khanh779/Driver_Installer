@@ -1,4 +1,4 @@
-# Driver_Installer
+# Driver_Installer (Chưa hoàn thiện)
 
 ## Giới thiệu
 Phần mềm `Driver_Installer` là một công cụ hữu ích giúp quét tìm và cài đặt driver mạng cho máy tính ko có kết nối internet. Với khả năng tự động nhận diện phần cứng và tìm kiếm tệp tin driver phù hợp, `Driver_Installer` giúp tiết kiệm thời gian và công sức trong việc cài đặt driver.
