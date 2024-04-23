@@ -1,2 +1,2 @@
 # Driver_Installer
-Phần mềm tìm kiếm tệp tin
+Phần mềm quét tìm driver, cài driver mạng
