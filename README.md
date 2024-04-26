@@ -1,4 +1,4 @@
-# Driver_Installer (Incomplete)
+# Driver_Installer (Incomplete) `Tuyết Nhi Dễ Thương`
 
 ## Introduction
 The `Driver_Installer` software is a useful tool that scans for and installs network drivers for computers without internet access. With its ability to automatically detect hardware and find the appropriate driver files, `Driver_Installer` saves time and effort when installing drivers.
@@ -15,7 +15,7 @@ The `Driver_Installer` software is a useful tool that scans for and installs net
 4. Follow the installation process and restart your computer if prompted.
 
 ## Installation
-1. Requires .Net Framework 4.7 or higher.
+1. Requires .Net Framework 4.7.2 or higher.
 2. Visual Studio and supporting tools to run the program.
 
 ## Contributions
@@ -37,7 +37,7 @@ Phần mềm `Driver_Installer` là một công cụ hữu ích giúp quét tìm
 4. Theo dõi quá trình cài đặt và khởi động lại máy tính khi được yêu cầu.
 
 ## Cài đặt
-1. Yêu cầu .Net Framework 4.7 hoặc cao hơn.
+1. Yêu cầu .Net Framework 4.7.2 hoặc cao hơn.
 2. Visual Studio và các công cụ hỗ trợ chạy chương trình.
 
 ## Đóng góp
